@@ -1,7 +1,9 @@
 # IPTV Playlist
 
-Любительский IPTV Playlist: https://github.com/DonteBoy/IPTV/blob/main/IPTV.m3u
+Amateur IPTV Playlist: https://github.com/DonteBoy/IPTV/blob/main/IPTV.m3u
 
-Основная аудитория: Russia (RU)
+Main Audience: Russia (RU)
+
+Creation date: 06/09/2023 (I do not plan to update)
 
 Классы:
