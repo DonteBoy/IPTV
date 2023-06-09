@@ -6,4 +6,4 @@ Main Audience: Russia (RU)
 
 Creation date: 06/09/2023 (I do not plan to update)
 
-Классы:
+Сlasses:
