@@ -12,6 +12,4 @@ Movies:
 
 Сameras:
 
-18+ Videos:
-
-18+ Movies:
+18+:
